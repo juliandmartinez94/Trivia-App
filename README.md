@@ -1,8 +1,8 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Trivia App*
 
 Submitted by: Julian Martinez
 
-**Trivia App** is an app that ... [TODO] 
+**Trivia App** is an app that presents the user with three tech based questions. Each question has four possible choices. After selecting the correct button, a new question appears. Remaining questions are labaled under the answer choices. 
 
 Time spent: **6** hours spent in total
 
